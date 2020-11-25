@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'udacityhector'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1d4a90526aff49a3a22f16076b1c97b5 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_35bba91c78e247f781a1b0f39201f23e }}
